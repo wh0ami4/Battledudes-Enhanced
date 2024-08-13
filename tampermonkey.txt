@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name         Battledudes.io Enhanced (BETA)
+// @namespace    http://tampermonkey.net/
+// @version      2024-04-30
+// @description  Battledudes with extra features
+// @author       whoami7193
+// @match        https://battledudes.io/*
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @require      https://raw.githubusercontent.com/wh0ami4/Battledudes-Enhanced/main/main.js
+// @grant        none
+// @run-at       document-start
+// ==/UserScript==
